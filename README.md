@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jimin Lee
+# Jimin Lukas Lee
 
 ### Data Science · AI · Web · Networking
 
